@@ -22,7 +22,7 @@ def get_filters():
     print('Hello! Let\'s explore some US bikeshare data!')
 
     # salutation message
-    
+
     # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
 
 
@@ -32,7 +32,7 @@ def get_filters():
     # get user input for day of week (all, monday, tuesday, ... sunday)
 
 
-    print('-'*40)
+    print('---'*40)
     return city, month, day
 
 
