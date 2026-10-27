@@ -3,7 +3,7 @@
 
 # Project Title
 
-Describe what your project is about and what it does
+GIT course project title
 
 ## Information about how to use your project
 
